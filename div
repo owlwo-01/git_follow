@@ -1,0 +1,7 @@
+def div(a, b) :
+  return a / b
+def main() :
+  div(2, 4)
+
+if __name__ == '__main__'
+  main()
